@@ -1,4 +1,4 @@
-Нейро-сотрудник
+ Нейро-сотрудник
 
 # GPT Assistant на LangChain
 
